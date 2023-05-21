@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cool selector App</string>
+    <string-array name="spinnerSelection">
+        <item>King</item>
+        <item>Queen</item>
+        <item>Rook</item>
+        <item>Bishop</item>
+        <item>Knight</item>
+        <item>Pawn</item>
+    </string-array>
+</resources>
